@@ -212,3 +212,15 @@ Amusez-vous !
 
 ---
 
+---
+
+## 🖼️ Aperçu visuel du projet
+
+### 🧩 Vue technique (structure + script)
+
+![Vue technique](https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP2.png)
+
+### 🧒 Vue simple pour débutant
+
+![Vue simplifiée](https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP.png)
+
