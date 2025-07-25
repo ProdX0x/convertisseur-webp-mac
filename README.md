@@ -58,9 +58,7 @@ ImagesMidjourney/
 Dans le Terminal, tape :
 
 ```
-
 brew install webp
-
 ```
 
 🔍 Cela installe l’outil `cwebp` (fourni par Google) qui permet de convertir les images.  
@@ -73,9 +71,7 @@ Tu ne fais cette étape **qu’une seule fois**.
 Tape cette commande dans le Terminal :
 
 ```
-
 echo \$SHELL
-
 ```
 
 Tu verras l’un des deux :
@@ -90,9 +86,7 @@ Tu verras l’un des deux :
 Dans tous les cas, commence par taper :
 
 ```
-
 nano \~/Downloads/ImagesMidjourney/convert\_images.sh
-
 ````
 
 Puis colle **le bon script selon ton cas** 👇
