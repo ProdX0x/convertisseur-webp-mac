@@ -31,9 +31,10 @@ Ce projet est fait pour :
 
 <h2>🖼️ Aperçu visuel du projet</h2>
 
-<p>
-  <img src="https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP2.png" alt="Vue technique" width="48%" style="margin-right: 2%;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP.png" alt="Vue simplifiée" width="48%">
+  <img src="https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP2.png" alt="Vue technique" width="48%" style="margin-right: 2%;">
+  <img src="assets/screenshots/audio_screen.png" width="200" style="display:inline-block;margin-right:10px;" />
 </p>
 
 
