@@ -27,7 +27,17 @@ Ce projet est fait pour :
 - Quelqu’un qui aime automatiser des tâches simples et utiles ⚙️
 
 ---
+<hr>
 
+<h2>🖼️ Aperçu visuel du projet</h2>
+
+<p>
+  <img src="https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP2.png" alt="Vue technique" width="48%" style="margin-right: 2%;">
+  <img src="https://raw.githubusercontent.com/ProdX0x/convertisseur-webp-mac/refs/heads/main/JpegPngWebP.png" alt="Vue simplifiée" width="48%">
+</p>
+
+
+---
 ## 📦 Ce qu’il te faut
 
 - ✅ Un **Mac**
